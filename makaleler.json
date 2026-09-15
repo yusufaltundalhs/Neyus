@@ -1,8 +1,7 @@
 {
   "nefretin-felsefesi": {
-    "etiket": "FELSEFE",
     "baslik": "Nefretin Felsefesi",
-    "resim": "https://pbs.twimg.com/media/HQi8U7nXQAAXLVS?format=webp&name=medium",
-    "metin": "<p>Nefret, aslında insanın kendi içindeki boşluğun dışa vurumudur. Dünyayı ve ötekini suçlamak, insanın kendi varoluşsal sancısından kaçışının en ilkel yoludur.</p><p>Friedrich Nietzsche'nin de dediği gibi, <i>uçuruma uzun süre bakarsanız, uçurum da sizin içinize bakar.</i> Nefret ettiğimiz şeye dönüşme tehlikemiz, tam olarak bu felsefi körlükten doğar.</p><p>Hiçlik ve varlık arasındaki o ince çizgide, insan nefretle kendini var ettiğini sanırken aslında kendini yok eder...</p>"
+    "resim": "https://link.com/kapak.jpg",
+    "metin": "<p>Birinci paragraf buraya...</p> <img src='https://link.com/ara-resim.jpg' style='border-radius:10px; width:100%; margin: 20px 0;'> <p>İkinci paragraf...</p> <blockquote style='color:#00E5FF; border-left: 4px solid #00E5FF; padding-left: 15px;'>Uçuruma uzun süre bakarsan...</blockquote> <p>Son paragraf...</p>"
   }
 }
